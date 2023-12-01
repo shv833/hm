@@ -1,0 +1,2 @@
+[console_scripts]
+cli_sort = cli_sort.sort:main

@@ -1,0 +1,8 @@
+setup.py
+ShV.egg-info/PKG-INFO
+ShV.egg-info/SOURCES.txt
+ShV.egg-info/dependency_links.txt
+ShV.egg-info/entry_points.txt
+ShV.egg-info/top_level.txt
+cli_sort/__init__.py
+cli_sort/sort.py
